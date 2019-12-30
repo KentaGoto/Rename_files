@@ -17,4 +17,4 @@ FileName_before3.docx<TAB>FileName_after3.docx
 
 ## Requirements
 - Windows
-- The rename list is UTF8 (without BOM).
+- The rename list is UTF8 (without BOM)
