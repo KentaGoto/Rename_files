@@ -3,7 +3,7 @@ File name replacement tool
 
 ## Usage  
 ```
-> Rename_files.exe <DIR> <RENAME_LIST.txt>
+$ Rename_files.exe <DIR> <RENAME_LIST.txt>
 ```
 
 ## Description  
