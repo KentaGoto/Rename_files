@@ -8,6 +8,7 @@ $ Rename_files.exe <DIR> <RENAME_LIST.txt>
 
 ## Description  
 Rename files in the specified directory based on the tab-delimited rename list.  
+
 **Example:**
 ```
 FileName_before1.docx<TAB>FileName_after1.docx
