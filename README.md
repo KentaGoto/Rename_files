@@ -1,5 +1,5 @@
 # Rename_files 
-File name replacement tool
+File name batch replacement tool.  
 
 ## Usage  
 ```
