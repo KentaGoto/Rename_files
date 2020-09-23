@@ -22,3 +22,6 @@ FileName_before3.docx<TAB>FileName_after3.docx
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
