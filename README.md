@@ -3,6 +3,10 @@ File name batch replacement tool.
 
 ## Usage  
 ```
+$ go run main.go <DIR> <RENAME_LIST.txt>
+```
+or for Windows 
+```
 $ Rename_files.exe <DIR> <RENAME_LIST.txt>
 ```
 
@@ -17,7 +21,6 @@ FileName_before3.docx<TAB>FileName_after3.docx
 ```
 
 ## Requirements
-- Windows
 - The rename list is UTF8 (without BOM) encording
 
 ## License
