@@ -15,9 +15,9 @@ Rename files in the specified directory based on the tab-delimited rename list.
 
 **Example:**
 ```
-FileName_before1.docx<TAB>FileName_after1.docx
-FileName_before2.docx<TAB>FileName_after2.docx
-FileName_before3.docx<TAB>FileName_after3.docx
+before1.docx<TAB>after1.docx
+before2.docx<TAB>after2.docx
+before3.docx<TAB>after3.docx
 ```
 
 ## Requirements
